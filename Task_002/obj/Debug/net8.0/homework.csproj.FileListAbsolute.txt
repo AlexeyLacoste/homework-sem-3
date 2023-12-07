@@ -1,0 +1,14 @@
+/Users/vladislav/Desktop/homework/bin/Debug/net8.0/homework
+/Users/vladislav/Desktop/homework/bin/Debug/net8.0/homework.deps.json
+/Users/vladislav/Desktop/homework/bin/Debug/net8.0/homework.runtimeconfig.json
+/Users/vladislav/Desktop/homework/bin/Debug/net8.0/homework.dll
+/Users/vladislav/Desktop/homework/bin/Debug/net8.0/homework.pdb
+/Users/vladislav/Desktop/homework/obj/Debug/net8.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislav/Desktop/homework/obj/Debug/net8.0/homework.AssemblyInfoInputs.cache
+/Users/vladislav/Desktop/homework/obj/Debug/net8.0/homework.AssemblyInfo.cs
+/Users/vladislav/Desktop/homework/obj/Debug/net8.0/homework.csproj.CoreCompileInputs.cache
+/Users/vladislav/Desktop/homework/obj/Debug/net8.0/homework.dll
+/Users/vladislav/Desktop/homework/obj/Debug/net8.0/refint/homework.dll
+/Users/vladislav/Desktop/homework/obj/Debug/net8.0/homework.pdb
+/Users/vladislav/Desktop/homework/obj/Debug/net8.0/homework.genruntimeconfig.cache
+/Users/vladislav/Desktop/homework/obj/Debug/net8.0/ref/homework.dll

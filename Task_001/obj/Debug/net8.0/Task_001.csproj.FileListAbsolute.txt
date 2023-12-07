@@ -1,0 +1,14 @@
+/Users/vladislav/Desktop/homework/Task_001/bin/Debug/net8.0/Task_001
+/Users/vladislav/Desktop/homework/Task_001/bin/Debug/net8.0/Task_001.deps.json
+/Users/vladislav/Desktop/homework/Task_001/bin/Debug/net8.0/Task_001.runtimeconfig.json
+/Users/vladislav/Desktop/homework/Task_001/bin/Debug/net8.0/Task_001.dll
+/Users/vladislav/Desktop/homework/Task_001/bin/Debug/net8.0/Task_001.pdb
+/Users/vladislav/Desktop/homework/Task_001/obj/Debug/net8.0/Task_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislav/Desktop/homework/Task_001/obj/Debug/net8.0/Task_001.AssemblyInfoInputs.cache
+/Users/vladislav/Desktop/homework/Task_001/obj/Debug/net8.0/Task_001.AssemblyInfo.cs
+/Users/vladislav/Desktop/homework/Task_001/obj/Debug/net8.0/Task_001.csproj.CoreCompileInputs.cache
+/Users/vladislav/Desktop/homework/Task_001/obj/Debug/net8.0/Task_001.dll
+/Users/vladislav/Desktop/homework/Task_001/obj/Debug/net8.0/refint/Task_001.dll
+/Users/vladislav/Desktop/homework/Task_001/obj/Debug/net8.0/Task_001.pdb
+/Users/vladislav/Desktop/homework/Task_001/obj/Debug/net8.0/Task_001.genruntimeconfig.cache
+/Users/vladislav/Desktop/homework/Task_001/obj/Debug/net8.0/ref/Task_001.dll
